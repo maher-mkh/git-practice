@@ -6,3 +6,5 @@ Ceci est un premier test de pull 2.
 Ceci est un premier test de pull.
 
 Ceci est un deuxième autre test de pull 1.
+
+Ceci est un test de rebase
